@@ -1,4 +1,5 @@
 # glrdZAP
 LPW
 EQUIPE
-	- Lucas Branco 
+	- Lucas Branco  
+  - Pedro Caetano
