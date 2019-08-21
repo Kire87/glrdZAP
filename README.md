@@ -1,4 +1,6 @@
 # glrdZAP
 LPW
 EQUIPE
-    -[Erik]
+  - Lucas Branco  
+  - Pedro Caetano
+  - Erik Cesar
