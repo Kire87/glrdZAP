@@ -1,4 +1,4 @@
 # glrdZAP
 LPW
 EQUIPE
-    -Erik
+    -[Erik]
